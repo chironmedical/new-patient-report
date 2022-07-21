@@ -1,0 +1,8 @@
+tqdm
+pandas
+openpyxl
+SQLAlchemy
+PyMySQL
+pandera
+cryptography
+python-dotenv
